@@ -1,1 +1,1 @@
-#Welcome to RDProject, the cool spot
+#Welcome to RDProject, the cool place
